@@ -6,7 +6,7 @@
 
 	"commons": {
 		"name": "Wikimédia Commons",
-		"type": "Multimédia"
+		"type": "Fichiers multimédia"
 	},
 	"reasonator": {
 		"name": "Reasonator",
@@ -14,7 +14,7 @@
 	},
 	"wikibooks": {
 		"name": "Wikibooks",
-		"type": "Manuel scolaire"
+		"type": "Manuels"
 	},
 	"wikinews": {
 		"name": "Wikinews",
@@ -30,7 +30,7 @@
 	},
 	"wikisource": {
 		"name": "Wikisource",
-		"type": "Texte source"
+		"type": "Références texte"
 	},
 	"wikispecies": {
 		"name": "Wikispecies",
@@ -46,6 +46,6 @@
 	},
 	"wiktionary": {
 		"name": "Wiktionnaire",
-		"type": "Entrée du dictionnaire"
+		"type": "Entrée de dictionnaire"
 	}
 }
